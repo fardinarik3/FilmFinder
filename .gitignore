@@ -1,0 +1,15 @@
+# TMDB API key - NEVER upload this
+bin/data/apikey.txt
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/*.exe
+bin/*.pdb
+obj/
+
+# Temporary files
+*.log
